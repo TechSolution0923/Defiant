@@ -1,0 +1,1204 @@
+"title","content","articles","url"
+"ETH Staking Deposits Exceed Withdrawals After Shapella Upgrade","Over 61,000 ETH Was Burned In The Last Week Amid Increased Network Activity","ETH Staking Deposits Exceed Withdrawals After Shapella Upgrade
+
+Over 61,000 ETH Was Burned In The Last Week Amid Increased Network Activity
+
+By: Tarang Khaitan   May 09, 2023
+
+Ether staking has been outpacing withdrawals, with investors depositing 192,000 ETH while only withdrawing 29,000 ETH in the past 24 hours. This marks the first time since the Shapella upgrade in April that the cumulative amount of ETH staked has exceeded the total amount of ETH withdrawn.
+
+In addition to the surge in staking activity, the Ethereum network is experiencing a significantly increased burn rate, with more than 61,000 ETH being burnt in the past seven days alone. This is largely due to Uniswap, the largest decentralized exchange by trading volume, which contributed almost half of the ETH being burnt.
+
+Looking ahead, the Ethereum foundation has tentatively selected the Ethereum Improvement Proposals (EIPs) to be included in the next major Dencun update, with a focus on EIP-4844, also known as the Surge. This update is expected to significantly decrease the transaction costs of Ethereum's Layer-2 networks.
+
+Attestation Service
+
+The Ethereum Attestation Service (EAS) now allows users to attest any type of file. The project went live in March on the mainnet and the Arbitrum network. EAS is a tokenless public good that aims to provide a valuable tool for verifying the authenticity of data and combatting malicious actors.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/eth-staking-deposits-exceed-withdrawals-after-shapella-upgrade"
+"Deloitte Taps Polkadot’s Kilt Protocol For KYC Credentials","Top Consulting Firm Believes Digital IDs Can Improve Inefficient Verification Process","Deloitte Taps Polkadot’s Kilt Protocol For KYC Credentials
+
+Top Consulting Firm Believes Digital IDs Can Improve Inefficient Verification Process
+
+By: Samuel Haig   May 09, 2023
+
+Deloitte Consulting AG, a subsidiary of the ‘Big Four’ accounting firm, Deloitte, has tapped the Polkadot-based Kilt protocol for digital identity services.
+
+Kilt will issue reusable digital credentials for Deloitte Consulting’s KYC/KYB identity checks, which aim to detect fraud and other criminal activity.
+
+“Digital credentials that are convenient, cost-effective and secure have the potential to open new digital marketplaces, from e-commerce and DeFi to gaming,” said Micha Bitterli, head of Deloitte Managed Services.
+
+Kilt said its digital identity (DID) credentials could support a variety of additional use cases, including “regulatory compliance for banking and DeFi, age verification, private logins, and fundraising.”
+
+The KILT token rallied 50% to $0.51 on the news, and last changed hands for $0.36, according to CoinGecko. Deloitte generated $59B of revenue in 2022.
+
+It’s a welcome boost for the Polkadot ecosystem, which was hammered in the bear market following excitement for its initial batches of parachain auctions.
+
+“Deloitte, the world’s biggest accounting firm, is the latest major enterprise partner to come to the Polkadot ecosystem,” Polkadot tweeted. “Kilt’s tech eliminates existing inefficiencies around KYC/KYB processes that can put consumer data privacy at risk, while addressing regulatory compliance for banking and DeFi.”
+
+Polkadot’s Layer 0 relay chain provides shared security from its vast staking ecosystem to Layer 1 “parachains” launching on its infrastructure. Polkadot projects rent one of a hundred parachain slots for periods of up to two years, with the parachains allocated through auctions.
+
+Reusable KYC
+
+Deloitte’s customers will be able to store their DID credentials in a digital wallet that is managed through a browser extension. “The customer can choose with whom they share their credentials and which data points they make available,” the company said.
+
+Kilt said many existing KYC/KYB certificates are paper-based and are not reusable, resulting in the vast collection and storage of personal information that puts consumer data privacy at risk.
+
+“The KYC process is typically inefficient for the verifying entity and repetitive for the customer,” Kilt said. “Reusable KYB and KYC credentials solve many of these challenges, while offering control and flexibility to the customer.”
+
+Deloitte will digitally sign each of the DID credentials it issues. The company also has the power to revoke DID credentials.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/deloitte-taps-polkadot-s-kilt-protocol-for-kyc-credentials"
+"Sushi Launches Concentrated Liquidity On 13 Blockchains","Another DEX Forks Uniswap V3 After License Lapses","Sushi Launches Concentrated Liquidity On 13 Blockchains
+
+Another DEX Forks Uniswap V3 After License Lapses
+
+By: Samuel Haig   May 06, 2023
+
+Sushi is the latest decentralized exchange to capitalize on the expiration of Uniswap V3’s Business Source License, with Sushi rolling out concentrated liquidity features across 13 chains on Thursday.
+
+“The introduction of v3 enables users and LPs to benefit from more trading volume, liquidity, and reduced exposure to potential impermanent loss,” Sushi said in an announcement.
+
+Sushi said it plans to roll out concentrated liquidity alongside a new user interface on each of the 20 networks the exchange operates on.
+
+The project’s SUSHI token is relatively unchanged over the past week.
+
+SUSHI Price
+ETH Price
+30. Apr
+1. May
+2. May
+3. May
+4. May
+5. May
+6. May
+7. May
+8. May
+9. May
+-20%
+-15%
+-10%
+-5%
+0%
++ 5%
+
+SUSHI Price + ETH Price, Source: The Defiant Terminal
+
+Concentrated Liquidity
+
+Concentrated liquidity was pioneered by Uniswap v3 in May 2021, allowing liquidity providers to optimize for capital efficiency. The code was released under a Business Source License, prohibiting unauthorized use for two years following its publication.
+
+The popularity of the protocol contributed to Uniswap enjoying a dramatic lead over its rivals by trade volume, with Uniswap’s top three deployments accounting for $1.2B in daily volume or 57.5% of combined DEX volume, according to CoinGecko. Uniswap also boasts a $2.9B total value locked (TVL), according to DeFi Llama.
+
+But with the license expiring on April 1, Uniswap’s old rivals have been quick to fork its code, with PancakeSwap also launching its v3 iteration with concentrated liquidity in the first week of April and amassing $307M in TVL since.
+
+On April 6, Jared Grey, Sushi’s “head chef,” tweeted that Uniswap’s v3 design is “the most capital-efficient AMM model.”
+
+Uniswap sought to preempt an inevitable influx of v3 forks on rival networks in March, with its community backing authorized v3 deployments on BNB Chain and Avalanche.
+
+Governance Saga
+
+Sushi is a veteran DeFi protocol, launching as a Uniswap v2 fork in August 2020, and briefly emerging as the top DEX by TVL after launching a vampire attack intended to siphon liquidity from Uniswap.
+
+However, Sushi struggled to find long-term governance stability after its pseudonymous co-founder attempted to rug-pull the project in October 2020. Co-founder 0xMaki led the protocol for roughly one year, after which months of infighting between Sushi’s core team, investors, and its community culminated in a failed Frog Nation acquisition.
+
+The Sushi community elected Jared Grey as its new head chef in October 2022 after a contentious selection process. Under Grey, Sushi sought to establish formal legal entities in the Cayman Islands and Panama. However, the move was met with a subpoena from the U.S. Securities and Exchange Commission in March.
+
+“If there’s an entity, it’s not a DAO,” Erik Voorhees, the CEO of ShapeShift,wrote on Twitter. “Don’t let lawyers talk you into incorporation… unless you want to be a corporation.”
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/sushi-launches-concentrated-liquidity-on-13-blockchains"
+"Sui Blockchain Launches Its Mainnet","Hyped Layer 1 Network Trades At $13B Valuation
+","Sui Blockchain Launches Its Mainnet
+
+Hyped Layer 1 Network Trades At $13B Valuation
+
+By: Tarang Khaitan   May 05, 2023
+
+Sui, a Layer-1 blockchain developed by former Meta employees, has launched its mainnet. The project uses a proof-of-stake consensus model and was programmed in the Move language, which was originally planned to be used for Meta's now-scrapped Diem project.
+
+Sui’s eponymous governance token is trading at $1.30 as of 2am ET, giving the blockchain a fully diluted valuation of $13B. This puts it ahead of established networks like Avalanche, Solana and Polygon.
+
+The SUI token is used for governance and to pay transaction fees and incentivize validators for staking their tokens. Half of the total supply of 10B tokens is allocated to a community reserve managed by the Sui Foundation.
+
+Early investors are sitting on tidy gains, as the tokens were sold at between $0.03 and $0.10 across multiple exchanges in an Initial Exchange Offering (IEO). Binance users also had the opportunity to stake BNB or TUSD to earn SUI tokens, and the popularity of the campaign briefly caused TUSD to surge above its dollar peg.
+
+Mysten Labs, the core development team behind Sui, raised $300M from VC heavyweights in a series B round at a valuation of $2 billion in September 2022. In March, Alibaba Cloud signed a memorandum of understanding with Mysten Labs to help grow the Sui ecosystem.
+
+Low Throughput
+
+Despite being built for high speed, Sui’s current network throughput is quite low.
+
+Sui is currently processing 3 transactions per second (tps) and reached a peak of 137 tps in the past 30 days. In comparison, SUI's primary competitors, Aptos and Solana, are processing 7 tps and 3,893 tps, respectively.
+
+Nearly 4.72 billion SUI tokens have been staked by 2,165 validators across the globe.
+
+Community Criticism
+
+Many community members were disappointed by Sui's mainnet launch, with some venting their frustration for not being eligible to purchase pre-sale tokens or getting airdrops.
+
+""Tested devnet, multiple testnet waves, wallet, transactions,nfts everything since more than 8mo. Still, I didn't get a single recognition/public sale ticket,"" a Twitter user wrote.
+
+Arthur0x, DeFiance Capital founder, was critical of Sui's lofty valuation.
+
+""Almost all founders of hyped L1 in past cycles are billionaires now despite little real traction achieved in their blockchain,"" he added.
+
+
+
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/sui-blockchain-launches-its-mainnet"
+"Ethereum Developers In ‘Final Stages Of Planning’ Next Major Upgrade","‘Dencun’ Will Focus On Scaling To Reduce Transaction Costs
+","Ethereum Developers In ‘Final Stages Of Planning’ Next Major Upgrade
+
+‘Dencun’ Will Focus On Scaling To Reduce Transaction Costs
+
+By: Samuel Haig   May 05, 2023
+
+Despite Ethereum’s Shapella upgrade going live just three weeks ago, the Ethereum Foundation is already looking ahead to the network’s next upgrade, dubbed Dencun.
+
+According to a May 3 blog post from Ethereum Foundation community manager Tim Beiko, Ethereum’s core developers are already in “the final stages of planning” for Dencun.
+
+“We currently have a tentative set of [Ethereum Improvement Proposals] included in the next network upgrade,” Beiko said.
+
+The primary update included in Dencun is EIP-4844, also known as “Proto-Danksharding” or “The Surge.” Researchers anticipate the update will reduce the costs associated with transacting on Ethereum Layer 2 by orders of magnitude. Beiko did not offer any timeline for when Dencun might be activated.
+
+The news comes as Layer 2 networks have emerged as the leading Ethereum scaling solution. Layer 2s surpassed the Ethereum mainnet by daily transaction volume in February, with L2s currently beating Ethereum by double with 2M transactions daily. L2 transactions peaked at nearly 4M six weeks ago, while mainnet activity trended steady at roughly 1M each day for the past six months.
+
+L2s represent a combined total value locked (TVL) of $9.3B, according to L2Beat, equal to one-fifth of the entire DeFi TVL, according to DeFi Llama.
+
+The Surge
+
+EIP-4844 will replace the blockspace-intensive “calldata” currently stored on-chain alongside transactions with “blobs,” with analysts tipping the upgrade will improve Layer 2 throughput by orders of magnitude. Unlike calldata, Blobs do not compete with Ethereum transactions for gas, significantly reducing the blockspace associated with processing transactions on L2.
+
+In a recent appearance on The Defiant Podcast, Carl Beekhuizen of the Ethereum Foundation said the cost of storing data on-chain is the main barrier restricting the scalability of Layer 2 networks. “The idea behind Danksharding and EIP-4844 is to provide really cheap data storage… so the L2s can provide cheap transactions to their users,” Beekhuizen said.
+
+Other Confirmed Upgrades
+
+Beiko confirmed that Dencun will include at least three other upgrades.
+
+EIP-1153 will introduce “transient storage,” which allows certain data to be discarded from transactions rather than stored on-chain. The upgrade will further improve blockspace availability and reduce the costs associated with storing data on-chain.
+
+EIP-6475, also called SSZ Optionals, is a companion to proto-danksharding — which introduces a new type of transaction that uses simple serialize (SSZ) encoding. Beiko said EIP-6475 ensures transaction formats are forward-compatible future SSZ-upgrade devs plan to introduce in the future.
+
+EIP-6780 will deactivate the SELFDESTRUCT opcode, which is used to terminate a smart contract. Beiko said the function is not behaving as expected for certain use cases, adding that client teams are currently considering different solutions for modifying the code.
+
+Ambitious Roadmap
+
+Ethereum is currently undergoing a period of significant transformation which began with the Merge last September, transitioning Ethereum to Proof of Stake consensus. Once the Surge is live following Dencun, Ethereum will undergo three other major upgrades in the form of the Verge, the Purge, and the Splurge.
+
+The Verge will introduce Verkle trees and stateless clients to make Ethereum more lightweight and bolster decentralization. Vitalik Buterin, Ethereum’s co-founder and chief scientist, said that after The Verge, users will be able to launch nodes “without having hundreds of gigabytes on your disc.”
+
+The Purge will remove old history from the blockchain, meaning nodes won’t be required to store the entire history of the blockchain. The network will delete transaction data after it is 30 days old, with infrastructure providers like the Etherscan block explorer expected to continue compiling older historical data.
+
+Finally, the Splurge will introduce “all of the other fun stuff” bolstering the network’s efficiency and performance not included in other upgrades.
+
+Ethereum’s core devs expect the network will enter a phase of relative stability following the Splurge, with Vitalik predicting that Ethereum “will look more like a system that optimizes for safety and predictability.”
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/ethereum-developers-in-final-stages-of-planning-next-major-upgrade"
+"Bitcoin Transactions Hit Record High as New Token Type Takes Off","BRC-20 Fungible Tokens Climb Above $100M Market Capitalization ","Bitcoin Transactions Hit Record High as New Token Type Takes Off
+
+BRC-20 Fungible Tokens Climb Above $100M Market Capitalization
+
+By: Owen Fernau   May 05, 2023
+
+Developers are continuing to push experimentation on the Bitcoin blockchain to new limits.
+
+The most recent major development is BRC-20 tokens, fungible assets named after ERC-20 tokens, a token standard which originated on the Ethereum blockchain and is now used by most tokens issued on that chain.
+
+These tokens have a collective market capitalization of $125M as of May 4, just a small fraction of Bitcoin’s total market cap. And yet, they pushed daily transactions on the Bitcoin blockchain to an all-time high of 682,000 on the first of the month. Bitcoin fees have also spiked to highs not seen since July 2021.
+
+The move is significant. Bitcoin has typically been a network valued for its stability — with its hard cap of 21M tokens backed by a decentralized group of miners, its strength was that it didn’t change. Ordinals, and more recently BRC-20s, represent a shift towards greater experimentation on the Bitcoin ecosystem.
+
+BRC-20 Standard
+
+The pseudonymous developer known as domo released the BRC-20 standard on March 8. For the deployment, they used the Ordinals protocol, which enables a way of “inscribing” small units of Bitcoin known as Satoshis with unique data. The data can be anything digital, ranging from images to audio, to text and video.
+
+In the case of BRC-20s, users are inscribing essential data like a token’s supply in a well-known format called JSON. This makes the tokens fundamentally interchangeable.
+
+For now, there isn't much people can do with BRC-20s. The documentation released by the token type’s creator lists three functions — people can create a token, they can mint one that’s already been created, and they can send it.
+
+These tokens may gain more utility once there are applications to use them on. Still, even minting tokens natively on Bitcoin is a major change in the blockchain’s capabilities, which didn’t allow users to easily issue their own coins.
+
+Ordinals
+
+Since their invention in January, Ordinals have shaken up the Bitcoin community. The technology uses a data field introduced by a Bitcoin upgrade called Segwit, as well as capabilities introduced by Taproot, another upgrade which went live in 2021.
+
+Since then, people have inscribed over 1M Ordinals with marketplaces reminiscent of OpenSea springing up to facilitate trading.
+
+While Ordinals sparked BRC-20s, other projects continue to build on Bitcoin some of the infrastructure that’s driven much of Ethereum’s success. For example, Trustless Computer bills itself as a Layer 1 built on Bitcoin, which would allow developers to deploy full-blown applications like those of the major DeFi protocols, in addition to fungible and non-fungible tokens.
+
+Trustless Computer
+
+Trustless Computer enables its own form of fungible tokens, called SBRC-20s, punk3700, a pseudonymous core contributor to Trustless Computer, told The Defiant. Trustless Computer’s smart contracts can interact with SBRC-20s, but not with BRC-20s. Though the core contributor did say that they are exploring whether to develop a way to bridge BRC-20s to the smart contract solution.
+
+The Trustless Computer team is pushing hard to demonstrate that it’s possible to build applications natively on Bitcoin — they deployed a fork of the second iteration of Uniswap, DeFi’s largest decentralized exchange by volume, on April 30. Trustless Computer allows developers to use Solidity code, which is the most used programming language on Ethereum.
+
+“I feel 10 times better versus my first Ethereum contract deployment in 2017,” punk3077 said.
+
+Trustless Computer doesn’t use the Ordinals protocol, but drew inspiration from it — the smart contract solutions also use the data field introduced by Segwit, which was implemented in 2017.
+
+“I think Ordinals invented an entirely new way of building on Bitcoin,” punk3077 said. “It gives us, developers, an entirely different perspective on Bitcoin. For the first time, we see Bitcoin [as] more than just a currency.”
+
+Trustless Computer is leaning on Ethereum-originating infrastructure for a wallet solution too. Punk3077 introduced a wallet that’s built on MetaMask, the wallet commonly used with Ethereum Virtual Machine (EVM) compatible chains, in February. Users can use MetaMask when using Trustless Computers’ solutions.
+
+Despite its name, Trustless Computer isn’t necessarily trustless — nodes specific to Trustless Computer process the smart contract environment’s transactions off the Bitcoin blockchain. It’s not clear how many nodes are processing Trustless Computer’s transactions, introducing a centralized, and thus corruptible, element to the system.
+
+Building on Bitcoin
+
+Punk3077 isn’t the only one who’s excited about the possibilities of building on Bitcoin. Leonidas, the founder of Ord.io, a blockchain explorer for Ordinals, said BRC-20s show there is a new attitude forming around the blockchain.
+
+“Ordinals culture brings back the recipe for innovation by encouraging developers to try crazy experiments without fear of failure,” the founder told The Defiant.
+
+Leonidas added that Vitalik Buterin, the co-founder of Ethereum, cultivated a welcoming environment for developers because he understood their importance to a crypto network.
+
+“Now there are hundreds of very talented developers working full-time on Web3 use cases on top of Bitcoin,” the founder said.
+
+To be sure, new fads often come and go in crypto. People early to a given development are prone to hype its significance in order to profit, so there’s no guarantee that the excitement around BRC-20s and smart contracts on Bitcoin will last.
+
+The development of BRC-20s and SBRC-20s differ, however, in that they’re enabled by changes to the Bitcoin protocol, which an upgrade called Taproot made possible. As such, the Ordinals protocol, and Trustless Computer is baked somewhat natively into the Bitcoin blockchain. This differs from many attempts to use the network by building on top of it, which can often introduce security vulnerabilities.
+
+The effects of the new activity of the world’s most valuable blockchain are just starting to become clear. The median value of a transaction using Bitcoin has fallen off as people have begun to use the blockchain outside of simply sending BTC.
+
+Leonidas is looking forward to a new era for Bitcoin. “The reality is that over the past five years, Bitcoin has fallen very far behind Ethereum and other Web3 blockchains from an infrastructure and UX perspective.”
+
+Bitcoin has also seen increased interest as major US banks have failed this year and with some investors hedging by directing capital towards the digital asset. With that, plus the developments of native smart contracts, BRC-20s, and Ordinals, the Bitcoin blockchain is certainly drawing attention from a broader audience than it has in recent years.
+
+Punk3700, for one, is aiming to seize the moment. “This is the best time to build on bitcoin,” they said.
+
+
+
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/bitcoin-transactions-hit-record-high-as-new-token-type-takes-off"
+"New Bitcoin Token Overtakes WBTC on Avalanche","BTC.b Enables Bitcoin To Be Used In DeFi Without A Centralized Bridge","New Bitcoin Token Overtakes WBTC on Avalanche
+
+BTC.b Enables Bitcoin To Be Used In DeFi Without A Centralized Bridge
+
+By: Samuel Haig   May 04, 2023
+
+Signs are emerging that the biggest Bitcoin-like token can be unseated. BTC.b is outpacing the long-standing incumbent, Wrapped Bitcoin, on the Avalanche network.
+
+On Sunday, Trader Joe, the top decentralized exchange on Avalanche, tweeted it had processed nearly $1B worth of BTC.b trades across its Avalanche, Arbitrum, and BNB deployments.
+
+According to DexTools, BTC.b volume beat out WBTC on Avalanche by 12% over the past 24 hours.
+
+Bitcoin holders who want to use their BTC on other blockchains, for example, to gain interest or use as loan collateral, can issue tokens that represent their BTC holdings on those chains. The biggest of these BTC derivatives is WBTC, with a market capitalization of $4.4B. WBTC relies on centralized third parties to custody Bitcoin, and a limited set of institutions can issue the token to then sell to individuals.
+
+BTC.b, the wrapped Bitcoin upstart, can be issued by bridging Bitcoin to Avalanche using the Core extension, and bridged to other blockchains using LayerZero.
+
+“For a long time, the primary way to use Bitcoin in DeFi was by relying on centralized bridges such as WBTC,” Trader Joe said.
+
+The growing popularity of BTC.b highlights the appetite for decentralized and trustless alternatives to the centralized bridges that underpin much of cross-chain DeFi. Centralized bridges proved to offer enticing honey pots for hackers in recent years, accounting for $2B or two-thirds of the total losses to crypto exploits last year, according to Chainalysis.
+
+Fast Rise
+
+LayerZero quickly rose to prominence as a leading team working on cross-chain interoperability over the past year, having processed more than $6B worth of bridging transactions since launching in March 2022. However, two-thirds of its cumulative volume was processed during the six weeks following Aribtrum’s $1.7B airdrop on March 23.
+
+However, LayerZero’s purported trustlessness came under scrutiny in January, when a researcher flagged that the protocol’s design could facilitate malicious collusion between the project’s Oracles and Relayers.
+
+“[The paper’s authors] directly state that in order for their mechanics to work, it’s required that Oracle and Relayer are independent and do not collude,” Krzysztof Urbański of L2Beat, a crypto analytics website, told The Defiant. “But it’s up to app developers to choose who is serving as Oracle and Relayer, so they are free to set it up in a way that they are actually dependent and that they do collude.”
+
+LayerZero responded that Urbański’s research rehashed information that was already in the public domain.
+
+“You can build good and bad things on top of it, just like you can build good and bad things on the internet and blockchains.” Ryan Zarick, LayerZero Labs’ co-founder, said.
+
+Trader Joe emphasized the composability of LayerZero’s Omnichain Fungible Tokens (OFT) standard, which underpins BTC.b.
+
+“OFT means that users don't have to worry about constant wrapping/unwrapping, and DeFi projects can easily integrate BTC.b into their applications,” it said.
+
+More than 5,700 Bitcoin have been bridged onto Avalanche via BTC.b, equating to a $163.8M market cap, according to CoinGecko. Users have bridged more than 2,500 BTC.b via LayerZero, indicating the token enjoys significant adoption across multiple chains, including Arbitrum and BNB Chain.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/new-bitcoin-token-overtakes-wbtc-on-avalanche"
+"TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20","Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch","TUSD Lending Rates Spike After Stablecoin Briefly Rallies To $1.20
+
+Binance Launchpool Campaign For Sui Exacerbates Liquidity Crunch
+
+By: Samuel Haig   May 04, 2023
+
+Opportunistic DeFi traders pushed lending rates for TrueUSD, the centralized stablecoin favored by Binance following a regulatory crackdown on its own BUSD token, well into triple digits after TUSD suddenly rocketed to $1.20 on Monday.
+
+According to data from Kaiko, TUSD briefly surged to $1.20 on Binance while trending closer to $1.03 on rival exchanges. DeFi traders raced to take advantage of the situation by borrowing TUSD from Aave and Compound, the top DeFi lending protocols. They planned to swap the overvalued TUSD into other stablecoins and wait for it to retreat back to $1 before repaying their loans, but the surge in borrowing demand pushed interest rates above 100%.
+
+“Binance has recently been promoting TUSD, making BTC-TUSD the only zero-fee pair on the exchange [and] one of the highest-volume pairs in all of crypto,” Kaiko said. “TUSD liquidity has not kept pace with its volumes, making a depegging like this more likely…Neither Aave nor Compound has a large supply of TUSD, which meant that borrowing rates quickly surged.”
+
+'Unstablecoins'
+
+The news comes as the stablecoin sector is still finding its feet after a brutal year. In May 2022, the failure of Terra amid the depegging of its algorithmic UST stablecoin sent the broader crypto markets into free-fall after $44B was wiped from the ecosystem over 10 days, according to CoinGecko.
+
+In February, New York regulators ordered Paxos to stop issuing Binance’s BUSD, then the third-largest stablecoin with a market capitalization of $16B. TrueUSD was a major beneficiary of the action against Paxos. Its market cap rocketed from $970M on Feb. 27 to more than $2B — where it has steadily remained since.
+
+USDC, the second-largest centralized stablecoin, also suffered a crisis of confidence after Silvergate Bank and Silicon Valley Bank went under in March. Skittish traders rushed to offload their USDC, pushing its price down to $0.88 and wiping more than $7B from its market cap.
+
+DAI, MakerDAO’s decentralized stablecoin, also crashed below $0.90 as investors sought to minimize contagion risk from DAI being heavily backed by USDC.
+
+SUI Farmers Siphon TUSD Liquidity
+
+Binance’s Launchpool campaign for the SUI token also contributed to the TUSD liquidity crunch. Sui is a Layer 1 blockchain that launched its mainnet today.
+
+The token launch began on May 1 and allowed users to earn SUI by staking TUSD or BNB. On Monday, participants had staked roughly 22% of TUSD’s supply on the Launchpool platform. The campaign ended on Wednesday, coinciding with the mainnet launch.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/tusd-lending-rates-spike-after-stablecoin-briefly-rallies"
+"Curve Deploys crvUSD Stablecoin On Ethereum","CRV Rallies 7%","Curve Deploys crvUSD Stablecoin On Ethereum
+
+CRV Rallies 7%
+
+By: Samuel Haig   May 04, 2023
+
+crvUSD, the highly anticipated stablecoin from Curve Finance, is now live on Ethereum.
+
+The contracts were deployed on Wednesday, inspiring DeFi degens to deposit $2M into the protocol within a couple of hours, despite no user interface being live.
+
+Curve is a stablecoin-focused decentralized exchange, offering low-fee swaps and boasting nearly $5B in total value locked. Its CRV governance token is up nearly 7% in the past 24 hours.
+
+CRV Price
+CRV Price
+Volume
+3. May
+4. May
+5. May
+6. May
+7. May
+8. May
+9. May
+0.75
+0.8
+0.85
+0.9
+0.95
+
+CRV Price, Source: The Defiant Terminal
+
+crvUSD is one of a new generation of forthcoming decentralized stablecoins native to popular DeFi protocols that promise to disrupt the sector. Curve users will be able to mint crvUSD against collateral assets deposited in the protocol, allowing users to access liquidity while simultaneously earning yield on their deposits.
+
+The launch came one day after Curve launched crvUSD on the Sepolia testnet. A GitHub repository described the testnet deployment as intended to test whether Etherscan, a popular block explorer, would verify the token. Curve first deployed the contract for crvUSD on Sepolia on April 25.
+
+LLAMMA Liquidations
+
+crvUSD’s white paper says the stablecoin will introduce a novel lending-liquidating AMM algorithm, or LLAMMA, to ease the effects of liquidations on borrowers.
+
+As the value of Ether collateral backing crvUSD approaches its liquidation price, the protocol will gradually convert it to stablecoins. Then, as the price of ETH rises, the assets are converted back to ETH.
+
+“This transforms liquidations from a jagged, all-at-once, all-or-nothing affair with huge slippage losses into a smooth transitioning that could even earn the collateral holder swap fees if they weather the volatility,” said foobar, a web3 developer.
+
+Aave GHO
+
+Aave, the top DeFi money market protocol, has passed a governance proposal outlining initial parameters for GHO, its upcoming native stablecoin that will likely compete with crvUSD.
+
+Aave users will similarly be able to mint GHO against collateral assets deposited to Aave for yield generation. The initial parameters include a 1.5% interest rate for borrowers of 1.5%, a 30% fee rebate for AAVE stakers, and a debt ceiling of 100M GHO.
+
+Renewed Emphasis On Decentralization
+
+The milestones for crvUSD and GHO come as interest in decentralized stablecoins is at an all-time high.
+
+The 2022 bear market was marked by the failure of several major CeFi firms, including the popular FTX exchange and crypto lenders Voyager and Celsius, leaving many investors wary of custodial counterparty risk and igniting demand for decentralized alternatives.
+
+However, few decentralized stablecoins have gained meaningful adoption, giving cautious traders scant alternatives to centralized stable tokens.
+
+MakerDAO’s overcollateralized DAI stablecoin is the top decentralized stablecoin with a $5B market capitalization.
+
+But DAI has been criticized for being heavily backed by centralized assets, predominantly Circle’s USDC token, in recent years. The critics appeared to be validated in March when the price of DAI slumped below $0.90 amid fears over USDC’s solvency. The protocol is now aiming to limit DAI’s exposure to centralized assets per its Endgame roadmap.
+
+FRAX has held steady second place with a $1B capitalization since December.
+
+Liquity’s LUSD captured significant market share to emerge as the third-ranked decentralized stablecoin this year, growing from $175M to $278M since late January.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/curve-deploys-crvusd-stablecoin-on-ethereum"
+"Lens Social Media Protocol Unveils Layer 3 Scaling Solution","‘Momoka’ Will Enable Content To Be Stored Off-chain, Reduce Transaction Costs","Lens Social Media Protocol Unveils Layer 3 Scaling Solution
+
+‘Momoka’ Will Enable Content To Be Stored Off-chain, Reduce Transaction Costs
+
+By: Samuel Haig   May 02, 2023
+
+Lens, the decentralized social media protocol from the team behind Aave, has begun beta-testing Momoka, a bespoke Layer 3 scaling solution.
+
+“The main challenge for decentralized social networks is to ensure that users have control over their content, while still being just as user-friendly as traditional social networks,” Lens said.
+
+Beta participants include Lenstube, an open-source video-sharing platform, Orb, an online creator monetization app, and Lens explorer protocols Bttrfly and Phaver.
+
+AppChain Model
+
+The news comes as the Ethereum ecosystem is pivoting towards Layer 3 networks, also called AppChains, as the scaling solution of choice for enabling the next generation of decentralized applications.
+
+dYdX, the popular derivatives trading platform, DeFi Kingdoms, the play-to-earn game, and Nubank, a Latin American fintech with more than 70M users, are among the teams that have deployed a Layer 3.
+
+Ethereum scaling teams have taken note, with Arbitrum and Polygon each launching protocols streamlining L3 development in recent months.
+
+Momoka
+
+Lens describes Momoka as an Optimistic Layer 3 data availability layer.
+
+Data availability layers are utilized to reduce on-chain storage requirements, allowing Lens to minimize the costs associated with using its platform.
+
+“While content on Lens may include an on-chain transaction, the content data is linked to a data availability location, like Momoka,” Lens said. “Momoka serves as a scaling solution that processes Polygon transactions off-chain… Unlike L2 solutions, Momoka doesn’t compress transactions into L1, it sends and stores them on a data availability layer.”
+
+Lens said it partnered with Arweave and Bundlr on Momoka, and said both teams are helping to facilitate the rapid publishing of data on Momoka. The protocol has also launched a block explorer for Momoka, allowing users to search transactions and monitor the network’s performance.
+
+Lens Activity Soars
+
+Lens completed its closed launch last February, allowing whitelisted users to begin experimenting with the protocol.
+
+According to data from Dune Analytics, the protocol enjoyed a recent surge in activity, with daily user actions surging from roughly 20,000 at the start of the year to a record high of 168,000 in late March.
+
+The monthly average number of Lens users also jumped from a January low of 10,000 to a record high of 130,000 the following month. The figure has since pulled back to 40,000.
+
+Aave Votes On Initial GHO Parameters
+
+Lens isn’t the only recent development from Aave, as the team is also working to launch a native stablecoin called GHO. Aave users will be able to mint GHO against their deposits.
+
+On April 29, The Aave community began voting on proposed initial parameters for GHO. More than 99% of votes cast so far support “Option A,” which would impose an annual fee of 1.5% on outstanding GHO, a 30% discount on fees for Aave stakers, and a debt ceiling of 100M GHO.
+
+AAVE is down 6% in the past 30 days.
+
+Terminal Chart
+AAVE Price
+Volume
+3. Apr
+10. Apr
+17. Apr
+24. Apr
+1. May
+8. May
+-15%
+-10%
+-5%
+0%
++ 5%
++ 10%
++ 15%
+
+AAVE Price, Source: The Defiant Terminal
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/lens-layer-3-momoka"
+"California DAO Bill Seeks to Provide Legal Clarity, A16z’s Jennings Said","AB 1229 would establish a business entity structure for DAOs.","California DAO Bill Seeks to Provide Legal Clarity, A16z’s Jennings Said
+
+AB 1229 would establish a business entity structure for DAOs.
+
+By: Owen Fernau   April 29, 2023
+
+As the fight for regulatory clarity for crypto continues at the federal level, a bill emerged this week, aiming to provide some of that clarity at the state level.
+
+Called AB 1229, and introduced by California assemblymember Matt Haney, the bill would establish a business entity structure for DAOs. The structure, called a decentralized nonprofit organization (DNPA), would provide a framework for DAOs to establish a legal entity, pay taxes, and provide limited liability to their participants.
+
+AB 1229 was heavily based on research by Miles Jennings, general counsel at the venture firm a16z, which sponsored the bill.
+
+“There’s a lot of uncertainty in this space,” the lawyer, who worked 11 years at the multinational law firm Latham and Watkins, before joining a16z, said in an interview. “What [entrepreneurs] need is certainty so that they can plan on how to build and they need to spend less time worrying about these legal issues.”
+
+Illegal Offerings
+
+AB 1229 comes at a time when regulatory and enforcement actions by government agencies have dominated the conversation on crypto in the United States. The Commodity Futures Trading Commission (CFTC), brought an enforcement action against a DAO’s token holders last year for “illegally offering leveraged and margined commodity transactions in digital assets,” as the September 2022 press release stated.
+
+The agency’s action caused an uproar in the crypto community as those who had participated in governance votes began to wonder whether they would be held liable for the DAO’s actions. AB 1229 may provide some of the clarity that DAO participants seek, and limit their liability based on their affiliated organization’s actions.
+
+More Tangible
+
+While the debate surrounding securities law and crypto at a national level has been highly contentious, Jennings thinks that passing AB 1229 is more workable.
+
+“This is a problem that is a little bit more tangible and ready to be solved because there are existing legal structures that can be modified,” he said. “It’s not quite as heavy of a lift as changing securities laws, for instance.”
+
+To be sure, Jennings said the newly proposed bill wouldn’t be a catch-all for all types of crypto organizations with a token. He said AB 1229 would be a good fit specifically for protocols and blockchain networks which aimed to control autonomous software through voting. The general counsel named the exchange Uniswap and the scaling solution Optimism, both of which a16z has invested in, as examples.
+
+Not for Large Companies
+
+For other organizations, such as investment groups built around a token on the blockchain, or other kinds of social clubs, AB 1229 wouldn’t be a fit, he said. Jennings also added that traditional companies couldn’t be considered a decentralized nonprofit either.
+
+“You can’t put in a big management team and then have a giant hierarchy,” he said. “So this entity structure is not to be a replacement for the next Google that’s going to have 100,000 engineers.”
+
+Financial Benefit
+
+This isn’t to say that members of a DAO legally recognized by California can’t expect to see a financial benefit from their token ownership. “There are ways to provide value to token holders that don’t look like dividends,” Jennings said.
+
+The general counsel gave the example of a UNI token potentially making providing liquidity more profitable. Or using the token of Aave, a lending protocol, to backstop risk through something called the Safety Module.
+
+Next Steps
+
+AB 1229 went through California’s Committee on Banking and Finance this week and will go through the Judiciary Committee next week. Assuming that goes well, the bill will pass through California’s lower branch of legislature and move to the State Senate.
+
+Jennings thinks it’s possible that California’s governor, Gavin Newson, could sign the bill in less than a year. “Probably you’re talking somewhere between six and eight months all told,” he said, assuming the bill passes through the California State Legislature.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/california-dao-bill-seeks-to-provide-legal-clarity-a16zs-jennings-said"
+"MakerDAO To Shutter SocGen’s $30M Credit Line","Collateralized Lending Protocol Reverses Course On Real-World Assets","MakerDAO To Shutter SocGen’s $30M Credit Line
+
+Collateralized Lending Protocol Reverses Course On Real-World Assets
+
+By: Samuel Haig   April 29, 2023
+
+MakerDAO, the second-largest DeFi lending protocol, plans to shut down the credit vault launched for a subsidiary of Societe Generale, France’s third-largest bank, after the firm paid down its debts last month.
+
+The governance proposal is one of several that Maker’s community began voting on yesterday. If passed, Maker will reduce the debt ceiling for SG-Forge’s vault to 0 DAI, meaning the firm cannot take out new loans using the protocol.
+
+Last month, an SG-Forge representative posted on Maker’s forum that SG-Forge had repaid its debt.
+
+“The overall transaction was a success,“ the representative said. “It has demonstrated that on-chain refinancing markets could be opened to real money asset owners, in full compliance with banking standards, with potentially significant improvements in financial terms, operational efficiency, settlement, and counterparty risks.”
+
+The news comes as MakerDAO actively seeks to limit its exposure to real-world assets (RWAs) in line with its controversial “Endgame” roadmap.
+
+Real World Assets
+
+MakerDAO’s Real World Finance Core Unit worked with SG-Forge on pitching a 30M DAI credit line for SG-Forge to the Maker community in June 2022.
+
+The vault was launched in August, with SG-Forge providing a 40M Euro bond in the form of OFH tokens — tokenized securities backed by AAA-rated home loans. The move came as Maker was seeking to expand its revenue streams derived from real-world assets.
+
+In July 2022, the Maker community voted to invest 400M DAI in short-term U.S. treasuries and 100M DAI in corporate bonds. The following month, Maker opened a 100M DAI credit line to Huntingdon Valley Bank, a 151-year-old traditional bank.
+
+SG-Forge didn’t access the credit line until January of this year, when it withdrew $7M in DAI from MakerDAO.
+
+Successful Transaction
+
+SG-Forge acknowledged that the utility of its OFH security token was hindered by illiquidity. In the event of a liquidation, the firm would have needed to execute actions manually to meet the margin calls.
+
+“We will continue working on expanding Security Tokens refinancing by scaling such DeFi solutions,” the representative said. SG-Forge added that it will closely monitor MakerDAO’s endgame roadmap to evaluate future business development opportunities moving forward.
+
+Changes at Maker
+
+Other live proposals include measures to reduce the debt ceilings for Maker’s YFI, LINK, and MATIC vaults to 0 DAI, and significantly increase the fees for its WBTC and GNO vaults to 4.9%.
+
+If passed, Coinbase Custody would also be onboarded to the Maker protocol. Coinbase Custody will access a vault with a debt ceiling of 500M DAI, while MakerDAO will receive a 2.6% return on its USDC holdings over 364 days, per a proposed legal agreement between the two entities.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/makerdao-to-shut-socgen-vault"
+"$1.4 Trillion Investment Firm Launches Tokenized Mutual Fund on Polygon","Ethereum Ecosystem Continues To Draw Interest From Institutional Investors","$1.4 Trillion Investment Firm Launches Tokenized Mutual Fund on Polygon
+
+Ethereum Ecosystem Continues To Draw Interest From Institutional Investors
+
+By: Samuel Haig   April 29, 2023
+
+Franklin Templeton, the subsidiary of a global investment firm with $1.4T in assets under management, launched its on-chain money fund, a stablecoin alternative, on the Polygon network on Wednesday.
+
+The Franklin OnChain U.S. Government Money Fund (FOBXX) is a U.S.-registered mutual fund that executes transactions and records share ownership using the Stellar blockchain. The fund seeks to pay investors dividends while maintaining a stable share price of $1 by investing at least 99.5% of its assets under management in government securities, cash, or repurchase agreements.
+
+Roger Bayston, head of digital assets at Franklin Templeton, highlighted that the integration is Franklin’s first within the Ethereum ecosystem. “Extending the reach of [FOBXX] to Polygon enables the Fund to be further compatible with the rest of the digital ecosystem, specifically through an Ethereum-based blockchain,” Bayston said.
+
+The news is the latest sign of increasing institutional interest in Ethereum and its ecosystem following its transition to Proof of Stake consensus last year. Last month’s Shapella upgrades, which activated Staked Ether withdrawals for the first time, have further stoked institutional appetite for Ethereum.
+
+On Monday, Tom Wan, a researcher at crypto ETP provider, 21Shares, tweeted that there were $1B worth of staked Ether inflows over the previous week. “Flow is mainly driven by institutional staking providers,” he said.
+
+Polygon is a top Ethereum scaling team. Its PoS Chain is the fifth-largest smart contract network with $1B locked. Polygon has also launched several Layer 2 rollup solutions, including ZkEVM, Nightfall, and Miden.
+
+Bringing TradFi On-Chain
+
+Still, while Polygon is an Ethereum side-chain, it should be noted that it’s not Ethereum itself, which poses tradeoffs. The Polygon smart contract admin key is controlled by a five out of eight signers system, noted Mona El Isa, CEO of Avantgarde, an on-chain money management platform.
+
+“Ethereum, as a more secure, decentralized, and battle-tested platform, is a more suitable choice for managing funds like Franklin Templeton’s DeFi fund,” she said.
+
+FOBXX opened to the public last year, becoming the first U.S.-registered fund to record transactions and ownership using blockchain.
+
+The fund’s shares are represented on-chain by non-transferable BENJI tokens, with the fund representing a nearly $273M market cap. The fund delivered an annual return of 2.8% to investors over the 12 months preceding April.
+
+Colin Butler, head of institutional capital at Polygon Labs, praised Franklin Templeton for embracing blockchain technology.
+
+“It’s amazing to have a legacy institution like Franklin Templeton bringing transparency, interoperability, and secure, democratized access to their financial instruments,” he said. “When we take a step back and look at these things less as blockchain products and more as benefits created by utilizing blockchain rails, we start to see the ‘why.’”
+
+On Monday, Bayston told Bloomberg that the asset manager recently experienced an “elevated” volume of enquiries into its fund from web3 entities, including DAOs and foundations. The Stellar Development Foundation invested $20M of its treasury assets into FOBXX.
+
+Leading Companies Look To Polygon
+
+On Wednesday, Google Cloud announced a “multi-year strategic alliance” with Polygon. Google Cloud will provide infrastructure and tooling to developers building on Polygon as part of the deal. Its node management platform, Blockchain Node Engine, will also support Polygon’s PoS Chain.
+
+Google Cloud first began working with Polygon in 2021, when it rolled out support for Polygon PoS Chain on-chain analytics on its BigQuery serverless database platform.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/templeton-money-fund-polygon"
+"Cosmos’ Shared Security Model Gets Vote Of Confidence","Neutron Blockchain Will Share Fees With Cosmos Hub ","Cosmos’ Shared Security Model Gets Vote Of Confidence
+
+Neutron Blockchain Will Share Fees With Cosmos Hub
+
+By: Owen Fernau   April 28, 2023
+
+The first proposal to allow a blockchain to derive its security from the Cosmos Hub, a major blockchain worth over $3B, has received near-unanimous support.
+
+Neutron, the blockchain looking to outsource its security to the Cosmos Hub, bills itself as a smart contract platform geared towards DeFi. The Cosmos Hub will receive 25% of transaction fees and miner extractable value (MEV) from the Neutron chain, as well as 7% of the supply of its NTRN tokens.
+
+If the proposal passes next week, Neutron would become the first chain to use Replicated Security, as the shared security feature is called.
+
+Cosmos’ ATOM token is relatively unchanged over the past month.
+
+ATOM Price. Source: Coingecko
+
+It’s a major milestone, according to Ethan Buchman, the co-founder of Cosmos. Buchman is also the CEO of Informal Systems, the company which released the first version of Replicated Security. “It opens up a development ecosystem around Cosmos Hub for the first time, really,” he told The Defiant.
+
+Stride, a liquid staking protocol like Lido Finance and Rocket Pool, also has a live vote to adopt the shared security model.
+
+Replicated Security offers a potential solution to the chicken-or-the-egg problem of starting a new blockchain — a blockchain’s security usually derives from validators who need to hold a project’s native token to secure the network. If that token is cheap, as it often is when a project begins, a malicious actor can potentially gain control of the new blockchain at a relatively low cost. If a project is secured by the Cosmos Hub, which is valued at $3.3B, the problem of easy corruption is theoretically eliminated.
+
+With Neutron and Stride potentially set to use the model, the Cosmos ecosystem may be entering a new era where businesses can safely spin up “consumer chains” with relative ease.
+
+Appchain Model Gains Traction
+
+While Cosmos has always championed the concept of app-specific chains, there’s been rising activity throughout crypto to provide tooling for smaller projects to launch blockchains specific to them. Leading layer 2 network Arbitrum, itself built on Ethereum, launched a product called Orbit to allow projects to quickly spin up custom blockchains.
+
+Arbitrum Teams Up With AltLayer In Layer 3 Push
+
+AppChain Model Favors Customization Over One-Size-Fits-All Approach
+
+The Defiant
+
+And Optimism, another major scaling solution, is pursuing its own model, called a Superchain, which involves an ecosystem of chains, similar to the Cosmos model.
+
+Buchman doesn’t see the convergence as a threat to Cosmos. “I think it’s all complementary,” he said. “I think it’s nice to see the ETH community increasingly coming to terms with the Cosmos vision and approach.”
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/cosmos-replicated-security"
+"Google Cloud Boosts Web3 Presence With Polygon Partnership","Search Giant Expands Web3 Accelerator Program","Google Cloud Boosts Web3 Presence With Polygon Partnership
+
+Search Giant Expands Web3 Accelerator Program
+
+By: Samuel Haig   April 27, 2023
+
+Google continues to deepen its participation in the web3 industry, unveiling a new partnership with Polygon and expanding its web3 accelerator program over the past two days.
+
+On Thursday, Google Cloud said it has entered a “multi-year strategic alliance” with Polygon to provide tooling and infrastructure to developers building on Polygon’s PoS Chain, zkEVM, and Supernets scaling solutions.
+
+Google will make its node hosting and management service, Blockchain Node Engine, available for Polygon PoS Chain node operators as part of the deal between the two firms.
+
+“Developers using Blockchain Node Engine will no longer have to worry about configuring or running their Polygon PoS nodes; they can instead focus on growth,” Google said in an announcement.
+
+Polygon’s MATIC token reversed earlier losses after the news broke.
+
+Terminal Chart
+MATIC Price
+Volume
+28. Apr
+30. Apr
+2. May
+4. May
+6. May
+8. May
+-20%
+-15%
+-10%
+-5%
+0%
+
+MATIC Price, Source: The Defiant Terminal
+
+Undeterred by the recent bear trend, Google Cloud launched a dedicated web3 team in May 2022 and has since inked deals with top firms in the sector, including Coinbase, Tezos, and Polygon.
+
+Polygon’s PoS Chain is the fifth-largest smart contract chain with $1B in total value locked, while its recently launched zkEVM secures $5.5M, according to L2Beat.
+
+Blockchain Node Engine
+
+Google Cloud launched Blockchain Node Engine in October 2022, initially supporting only Ethereum nodes. The platform went live one month after Ethereum completed its transition to Proof of Stake consensus. Google Cloud plans to add support for Solana later this year.
+
+Polygon and Google have been working together since October 2021, when Google Cloud made its data analysis platform, BigQuery, available to access on-chain data for Polygon in real-time.
+
+Accelerator Program
+
+On April 25, Google Cloud expanded its accelerator program for web3 startups, further demonstrating its commitment to the blockchain sector.
+
+Pre-seed startups participating in Google’s accelerator program can receive up to $2,000 worth of Google Cloud credits for two years, while funded firms may access $200,000 in Cloud and Firebase services.
+
+In total, more than a million dollars in grants are now on offer from Google and its 11 partners – Alchemy, Aptos, Base, Celo, Flow, Hedera, Nansen, Near, Polygon, Solana, and Thirdweb.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/google-cloud-polygon-partnership"
+"Arbitrum Teams Up With AltLayer In Layer 3 Push","AppChain Model Favors Customization Over One-Size-Fits-All Approach","Arbitrum Teams Up With AltLayer In Layer 3 Push
+
+AppChain Model Favors Customization Over One-Size-Fits-All Approach
+
+By: Samuel Haig   April 27, 2023
+
+Despite Ethereum’s Layer 2 ecosystem being far from realizing its full potential, market leader Arbitrum is already setting its sights on Layer 3.
+
+Arbitrum entered the Layer 3 arena in March with the launch of Arbitrum Orbit, describing the protocol as “a permissionless solution for any developer to build a Layer 3 blockchain using Arbitrum technology.” Today, Arbitrum has selected AltLayer, a web3 infrastructure provider, as the first rollups-as-a-service provider supporting Orbit.
+
+“With the addition of AltLayer, we’re taking another necessary step towards maximizing creative ability while minimizing the tedious tech process behind application development,” said Anuja Khatri, head of growth at the Arbitrum Foundation.
+
+AltLayer said it will roll out support for Orbit on its launchpad platform by the third quarter, allowing “those with little to no coding experience to spin up a customized Layer 3 tethered to Arbitrum within 5 minutes.”
+
+Layer 3
+
+The news comes as top scaling teams are increasingly pivoting to facilitate development on Layer 3.
+
+Layer 3 networks, also called AppChains, are specialized networks that host a single decentralized application. They are secured by Layer 2 networks, inheriting the security guarantees of an underlying Layer 1 network, such as Ethereum.
+
+Matter Labs, the team behind another Layer 2, ZkSync Era, told The Defiant that Layer 3s provide a superior alternative to private enterprise chains like Hyperledger.
+
+“Where Layer 2 is kind of one size fits all blockchain, Layer 3 is enterprise-ready, ready for 10x customization [and] 10x scaling,” said Steve Newcomb, Matter Labs’ chief product officer.“If you want the most security, you do a ZK-rollup at Layer 3.”
+
+AltLayer says L3s are highly suited to decentralized social, gaming, and financial applications. Yaoqi Jia, AltLayer’s CEO, told The Defiant it will provide Layer 3 services secured by other L2s in the future.
+
+AppChain Adoption
+
+dYdX, the top perpetuals exchange by trade volume, was among the first applications to migrate away from L1 in favor of deploying on its own chain. It migrated to an L2 AppChain secured by StarkWare in April 2021.
+
+The exchange is now planning to launch a new Cosmos-powered AppChain in the Cosmos ecosystem by October, having deployed its testnet at the start of this month.
+
+In May 2022, Yuga Labs, the team behind the Bored Ape Yacht Club NFT collection, expressed its desire to migrate its APE token onto a dedicated AppChain. But ApeCoin holders shot down the proposal the following month, opting to remain within the Ethereum ecosystem.
+
+DefiKingdoms, a once high-flying GameFi project, launched as a subnet on Avalanche in April 2022.
+
+Polygon also entered the Layer 3 fray in April 2022 with the launch of its “Supernet” AppChain infrastructure. In October, it announced that Nubank, a top Latin American fintech boasting more than 70M users, plans to launch its own chain and token leveraging Supernet technology.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/altlayer-arbitrum-layer3"
+"CAKE Plummets On Syrup Pool Unlocks","Another 190M Tokens Remain To Be Released","CAKE Plummets On Syrup Pool Unlocks
+
+Another 190M Tokens Remain To Be Released
+
+By: Owen Fernau   April 27, 2023
+
+The governance token of PancakeSwap, DeFi’s second-largest exchange with $2.6B in trading volume over the past week, has taken a beating this week after a large number of tokens entered circulation.
+
+CAKE is down over 24% in the past seven days. That makes it the worst performer among the top hundred digital assets.
+
+Terminal Chart
+CAKE Price
+ETH Price
+BTC Price
+20. Apr
+22. Apr
+24. Apr
+26. Apr
+28. Apr
+30. Apr
+2. May
+4. May
+6. May
+8. May
+-50%
+-40%
+-30%
+-20%
+-10%
+0%
+
+CAKE Price + ETH Price + BTC Price, Source: The Defiant Terminal
+
+0xGeeGee, a crypto trader, told The Defiant that CAKE dropped this week after a large number of tokens were unlocked from a mechanism called Syrup Pool this week. Syrup Pools allow users to lock tokens for up to one year in order to earn CAKE rewards. The longer a user locks, the higher the rewards.
+
+The trader said that roughly 6M CAKE tokens were unlocked this week, representing only 0.08% of the token’s capped 750M supply. 0xGeeGee added that there is an additional 190M CAKE, or another 25.3% of the supply, locked in the Syrup Pool, with additional unlocks expected in the coming weeks.
+
+The PancakeSwap team and the BNB Chain ecosystem at large are trying to figure out how to offset the selling pressure that comes with the increased supply.
+
+Tokenomics Overhaul
+
+To that end, multiple proposals to tweak CAKE’s tokenomics to become more sustainable went live in the past week.
+
+Proposed CAKE Overhaul
+
+PancakeSwap is unique in that it’s arguably the most successful DeFi protocol which didn’t originally launch on the Ethereum blockchain. At $2.2B, the decentralized exchange has the most total value locked of any project in that category.
+
+This makes the efforts to make CAKE’s tokenomics particularly noteworthy — few projects besides those originating on Ethereum have established themselves as leaders in DeFi. With the revisions to its tokenomics, PancakeSwap could be the first major player to do so.
+
+Beyond the debate swirling around CAKE’s tokenomics, it’s been a time of change for the protocol — it deployed its third iteration earlier this month. PancakeSwap also moved onto Aptos and Ethereum this year, breaking the protocol’s exclusive association with Binance Chain.
+
+Those developments, as well as the impending unlocks, provide the backdrop for efforts by the project’s community to bolster CAKE’s value. A vote to cut down CAKE emissions to the syrup pool was narrowly shot down last Friday.
+
+The project’s team has since held an AMA addressing CAKE’s tokenomics, and posted a recap of the event. On the same day, another proposal to modify CAKE emissions went live. This one is on track to pass, with 67% of voters agreeing to reduce CAKE emissions for the Syrup Pool from 6.65 CAKE to 3 CAKE per block.
+
+Were the vote to pass, rewards would be reduced monthly by 0.5 CAKE per block over five months. After month six, a reduction of 3.8 CAKE per block would happen, with emissions finally settling at 0.35 CAKE per block.
+
+CAKE’s tokenonomics already include burning mechanisms which permanently reduce the supply of the asset. Actions which burn CAKE include fees taken on all trades which use PancakeSwap V2.
+
+The PankcakeSwap team thinks that despite the week’s selloff, the new tokenomics would make the project more robust. “We believe this transition will make our protocol more sustainable in the long term and attract more users to the PancakeSwap ecosystem,” the protocol’s pseudonymous leader, known as Head Chef Mochi, told The Defiant in an email.
+
+Chef Mochi also said that the big-picture strategy for PancakeSwap was to become an “all-in-one” DeFi protocol. To that end, the project is pursuing verticals beyond vanilla trading by offering perpetual futures trading, NFT trading, and a lottery component.
+
+The head chef indicated a willingness to continue to expand to other chains, while also emphasizing that they would continue to work with Binance moving forward.
+
+Just as PancakeSwap looks to make its tokenomics more sustainable and expands to other chains, competitors are encroaching on the decentralized exchange’s native land, the BNB Chain.
+
+Competitive Market
+
+Uniswap, the only decentralized exchange with more volume than PancakeSwap, deployed on BNB Chain in March based on a governance process started in January. PancakeSwap still dominates its home turf, processing over 200 times more volume than Uniswap in the past week.
+
+Top BNB Chain DEXs
+
+There are other projects gunning for market share on BNB Chain as well. Volume for Levels, a decentralized exchange for perpetual swaps, has jumped 37.6% this week, good for second among all exchanges on the blockchain.
+
+And Thena, another decentralized exchange, has seen a 54.4% rise in volume this week, placing it fourth on BNB.
+
+CAKE is trading at $2.64 at the time of writing. 0xGeeGee, for one, isn’t looking to buy today’s dip. “My journey this cycle started with CAKE at $0.50,” they said. “If it ever returns there, I guess I’ll buy, at least for the nostalgic value.”
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/pancakeswap-tokenomics-overhaul"
+"Rocket Pool Adoption Surges After Atlas Upgrade","Liquid Staking Protocol Sees Influx Of Displaced Stakers From Kraken","Rocket Pool Adoption Surges After Atlas Upgrade
+
+Liquid Staking Protocol Sees Influx Of Displaced Stakers From Kraken
+
+By: Samuel Haig   April 27, 2023
+
+Rocket Pool is enjoying a surge in adoption following the successful deployment of its Atlas upgrade last week, which halved the amount of collateral that “minipool” operators must provide from 16 ETH to 8 ETH, significantly lowering the barriers for participating in Ethereum staking.
+
+Users are currently staking 500,600 ETH via Rocket Pool, an increase of 11% since the April 17 upgrade went live, according to Dune Analytics. The platform is the fifth-largest staking provider behind Lido and centralized exchanges Coinbase, Binance, and Kraken.
+
+“Our primary objectives were to facilitate seamless withdrawals and elevate Rocket Pool to the next level of scalability,” Darren Langley, general manager of Rocket Pool, told The Defiant. “Although it is still early, we are witnessing the fruition of these goals.”
+
+The protocol’s RPL token rallied leading up to Atlas, with the token retesting its November 2021 high of roughly $61 on April 17, for a 200% gain since the start of 2023.
+
+RPL Price. Source: Coingecko
+
+However, RPL has tumbled 23% to $47 since Atlas went live on Apr. 17.
+
+Staked ETH Withdrawals
+
+Rocket Pool’s Atlas upgrade added support for staked ETH withdrawals, which were activated for the first time alongside Ethereum’s Shapella upgrades.
+
+While Ethereum stakers usually must post collateral of 32 ETH to run a node, Rocket Pool’s minipools reduce that requirement, allowing users to source the remaining required Ether from liquidity providers. Users must also provide 2.4 ETH worth of Rocket Pool’s RPL token as collateral to launch a minipool.
+
+Langley said Rocket Pool is “delighted” by the initial success of Atlas, noting that the number of minipools is up 26% in just two weeks.
+
+“Our rETH capacity has significantly increased, allowing us to accommodate a growing influx of demand,” Langley said. “Node operators can access both their accumulated and ongoing rewards and can also fully withdraw their stake from the beacon chain.”
+
+Atlas also allows solo stakers to migrate to Rocket Pool without needing to exit their validators.
+
+Kraken Stakers
+
+Rocket Pool is also attracting some of Kraken’s displaced stakers.
+
+Kraken announced it would shut down its custodial staking service in February after settling an SEC lawsuit alleging the service comprised an unregistered security offering. But as withdrawals were not yet activated at the time, users staking via Kraken had to wait until after Shapella to access their funds.
+
+Kraken raced to withdraw customers’ ETH following Shapella, currently accounting for more than 35% of all withdrawn staked Ether with nearly 600,000 ETH, according to Nansen. The exchange launched a claims process for its ETH staking clients on Tuesday.
+
+Despite the sizable withdrawals, Nansen estimates Kraken’s nodes still control more than 1.3M ETH.
+
+On Monday, Torran G, a blockchain analyst, tweeted that more than 10,000 Ethereum validators were waiting to come online, suggesting Kraken’s displaced staking clients could be among the pending nodes.
+
+“This is likely due to validator reshuffling, compounding of rewards into new validators, RocketPool 8-ETH bonded minipools since their Atlas upgrade, and institutional stakers that have been waiting for withdrawals,” they said.
+
+“We’ve already seen movement of ETH from Kraken into $rETH,” tweeted Jasper, a Rocket Pool advocate.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/rocket-pool-sees-influx-from-kraken"
+"LayerZero Usage Triples After Arbitrum Airdrop","Cross-chain Protocol Raised $120M Earlier This Month","LayerZero Usage Triples After Arbitrum Airdrop
+
+Cross-chain Protocol Raised $120M Earlier This Month
+
+By: Owen Fernau   April 27, 2023
+
+Cumulative transactions on LayerZero, a cross-chain interoperability protocol, have tripled since Arbitrum airdropped $1.7B of ARB tokens to its users last month.
+
+LayerZero launched in March 2022 and reached nearly 2M cumulative transactions roughly a year later. In just the past month, however, users have pushed through almost 5M transactions.
+
+LayerZero Transaction Count
+
+Considering that the surge in LayerZero activity came almost immediately after the Arbitrum airdrop, users appear to be hoping for another ARB-like windfall.
+
+At $1.7B on launch day, the Arbitrum airdrop was the largest ever, according to IntoTheBlock, a data provider.
+
+It’s clear that airdrops are major drivers of activity in the crypto space, especially during the ongoing bear market. zkSync, another scaling solution for Ethereum, outpaced a competitor by 60-to-1 in terms of attracting deposits, as users chase a potential airdrop. Blur, the NFT marketplace, has distorted the NFT market through an airdrop program which rewards users for bidding on tokens they likely otherwise wouldn’t have.
+
+It seems clear that the distribution of free ARB tokens just over a month ago has accelerated the trend of users interacting with projects hoping to receive a payout.
+
+An ecosystem has sprung up around how to receive unreleased tokens from live projects — Social media is awash with hundreds of posts about how to qualify for a LayerZero airdrop. Many reference ARB and BLUR as examples of potentially similar payouts.
+
+Investors are betting that the growth will be sustainable — LayerZero Labs announced a $120M raise at a $2.9B valuation on April 3.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/layerzero-activity-triples"
+"XEN Token Accounts For 11% of Ethereum Gas Consumption","‘Universal Cryptocurrency’ Surges to $70M Market Capitalization","XEN Token Accounts For 11% of Ethereum Gas Consumption
+
+‘Universal Cryptocurrency’ Surges to $70M Market Capitalization
+
+By: Owen Fernau   April 26, 2023
+
+An obscure smart contract has been guzzling gas on Ethereum.
+
+XEN Torrent is responsible for over 11% of the transaction fees paid on Ethereum over the past 24 hours, making it the second-largest gas consumer after Uniswap’s router contract.
+
+And yet, not many people have heard of XEN despite its appearance among the household names driving Ethereum usage. The token is up nearly 500% in the past month, however.
+
+XEN Price. Source: Coingecko
+
+“Our approach is to solve the adoption problem first and foremost,” ZEN TZU, a pseudonymous core team member at Fair Crypto Foundation, the company behind XEN, told The Defiant. “XEN is designed to be more of peer-to-peer cash than store-of-value,” they said.
+
+The project’s whitepaper positions the token as “a universal cryptocurrency to achieve the original mission of blockchain.” The paper lists blockchain buzzwords like self-custody, transparency, and decentralization, as aspects of that mission.
+
+One key feature of XEN is users can just pay the transaction fees on a supported blockchain to acquire the token for free. However, the minting process will yield progressively less XEN over time.
+
+Jack Levin, the project’s founder and former Google engineer, told The Defiant that an application called DBXen, which makes users burn XEN in order to use the protocol, was responsible for the increased demand for the token on Ethereum.
+
+Mint and Stake
+
+At its core, users mint XEN through its website. After waiting for a user-determined period, they can stake XEN in order to acquire more tokens, according to the whitepaper. The specifics of how many XEN a user gets is dependent on a formula provided in the paper.
+
+XEN Rewards Formula
+
+There’s also an expanding ecosystem of applications around XEN. One called XEN Knights, launched earlier this month and involves burning the token for an NFT-like asset called an Ordinal, which lives on the Bitcoin blockchain. Another, called XENFT, allows users to batch-mint XEN with an NFT, according to a post on the release.
+
+XEN’s design is gas-guzzling by nature. Another of the project’s smart contracts was responsible for 40% of Ethereum gas usage in October, making the blockchain’s native asset deflationary for the first time after EIP-1559 and the Merge.
+
+‘Fringe’ Project
+
+Considering the nagging consideration that crypto solves a problem that doesn’t exist, it’s hard for people to get excited about a new project like XEN. The project isn’t well integrated with the dominant DeFi projects like Lido and Aave, established NFTs like CryptoPunks and Bored Apes, or many influencers in either of those Ethereum-dominated ecosystems.
+
+For example, projects like Voltz, the interest rate swap protocol, have the blessing of an early license granted by Uniswap, arguably the most successful DeFi project. Voltz allows investors to speculate on the interest rates of major lending protocols like Aave and Compound.
+
+XEN, on the other hand, looks to be coming out of left field, which may make it hard to trust by participants in ‘mainstream’ crypto culture, which centers around Twitter and the Ethereum blockchain.
+
+Still, there’s a growing view that crypto needs to move beyond its self-referential culture and on to greener pastures where people may not know or care about the lore behind DeFi protocols.
+
+Joe Blau, the co-founder of a project in the XEN ecosystem called Fenix Protocol which is set to launch in the coming weeks, is aware of the token’s position in the larger crypto community. “We’re on the fringe,” he told The Defiant. “We’re not in the core.”
+
+Blau is familiar with the big names in DeFi, reeling off some of the top projects’ names without missing a beat. He thinks there’s another set of users outside the Ethereum-centric club.
+
+“They don’t really care if it’s Compound on Ethereum or a Compound fork on some other chain or if it’s Uniswap or if it’s PancakeSwap or if it’s Spookyswap,” he said.
+
+Multichain Approach
+
+XEN’s creators have deployed the token on 10 different blockchains. That’s a dramatically different approach to the deliberate way that most of the largest protocols in terms of total value locked (TVL) slowly expand to other chains.
+
+A former engineer at Uber, Blau said XEN took the “land and expand” approach that the ride-sharing company took when it launched in many cities in a short period of time and tried to develop business from there. Blau conceded that many chains, like BNB Chain, are effectively centralized. This admission does, in some ways, seem counter to XEN’s stated mission of operating from blockchains’ “first principles” like decentralization.
+
+Blau argues that there are upsides to the broad approach XEN is taking. “We’re finding amazing developers in different pockets,” he said.
+
+It’s unclear whether XEN will work in the long run. If it does, it certainly won’t have been through the typical route in DeFi, and it will have burned a lot of ETH along the way.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/xen-eth-gas-guzzler"
+"Tornado Cash Developer To Be Released Next Week","Alexey Pertsev Has Been In Prison For Over Nine Months Without Trial","Tornado Cash Developer To Be Released Next Week
+
+Alexey Pertsev Has Been In Prison For Over Nine Months Without Trial
+
+By: Tarang Khaitan   April 22, 2023
+
+Alexey Pertsev, a developer of the sanctioned privacy mixer Tornado Cash, will be released from jail on April 26 but will remain under house arrest until his trial, according to CryptoCanal founder Eléonore Blanc.
+
+Pertsev will remain under electronic surveillance from the confines of his home and will have to wear an ankle monitor.
+
+Tornado Cash’s TORN governance token briefly spiked by 25% on the news.
+
+Pertsev was arrested in August by Dutch authorities on money laundering charges, just days after sanctions were levied against Tornado Cash by the U.S. Treasury Department. He has remained in custody for over nine months.
+
+In November, Dutch authorities refused to release Pertsev as they deemed him a flight risk and alluded that Pertsev could potentially have hidden assets that had not yet been frozen.
+
+The crypto community and privacy advocates welcomed the news of Pertsev’s upcoming release.
+
+“Still sickening that the dude had to sit in jail for months to finally go “free.” Writing code and ideas shouldn’t be punishable,” one user commented.
+
+CULT DAO donated $25,000 towards funding Pertsev’s legal defence.
+
+Prosecutors argued that Pertsev could potentially start a new privacy mixer and, therefore, should remain detained, according to Bitcoin developer Sjors Provoost.
+
+Once released, Pertsev will have less than a month to prepare for his trial, which is set to begin on May 24.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/tornado-cash-pertsev-to-be-released"
+"Synthetix Volume Surges on Optimism Incentive Program ","Traders Will Be Eligible To Earn Optimism Token Rewards During The 20-Week Campaign","Synthetix Volume Surges on Optimism Incentive Program 
+
+Traders Will Be Eligible To Earn Optimism Token Rewards During The 20-Week Campaign
+
+By: Tarang Khaitan   April 21, 2023
+
+Volume on Synthetix is surging after the decentralized derivatives exchange started distributing Optimism tokens.
+
+Average 7-day volume on Synthetix soared to $115M from $51M, while 7-day average fees doubled to $90,000 from $45,000, according to a Dune Analytics dashboard. Most trading activity took place on Kwenta, a Synthetix-based exchange for trading perpetual futures.
+
+Incentivized Trading
+
+Users trading on the platform will be eligible to earn OP tokens for 20 weeks. The first few weeks are the “ramping up” period. 10,000 OP tokens will be distributed in week one, while rewards will increase to 10,000 per week in the next two weeks.
+
+From week four until the end of the program, 300,000 OP tokens will be handed out on a weekly basis.
+
+In total, Synthetix will handout more than 5.3 million OP tokens, worth approximately $12.8M, during the course of the program.
+
+Users will need to have at least $1,501 of sUSD debt to be eligible to multiply their bonus.
+
+Tokens Rise
+
+Investors are buying up governance tokens of perpetuals protocols, with the assets outperforming BTC and ETH this week.
+
+Synthetix’s SNX token is up 4% in the past 7 days, while dYdX’s token, another key player in the perpetuals swap space, saw its governance token increase by 9% during the same period.
+
+GMX, the token of Synthetix’s primary rival, climbed to an all-time high this week.
+
+Increasing Trading Pairs
+
+Synthetix Perps V2, another Synthetix-based perpetuals trading platform, is adding new trading pairs at an accelerated rate in a bid to retain traders on its platform.
+
+The exchange has added trading pairs for ATOM, FTM, NEAR, among others.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/snx-volume-surges-on-op-rewards"
+"NFT Traders Turn To Flipping Memecoins","Major Marketplaces See Active Users Plummet","NFT Traders Turn To Flipping Memecoins
+
+Major Marketplaces See Active Users Plummet
+
+By: yyctrader   April 21, 2023
+
+Perhaps it was the end of tax season. Or a touch of regulatory fatigue after all the recent saber-rattling from the SEC.
+
+Whatever the cause, the PEPE token launched last Friday kicked off a memecoin fever reminiscent of the dog coin mania of early 2021. Ethereum gas prices spiked this week as speculators rush to find the next PEPE, routinely spending $30 or more on simple token swaps.
+
+Meanwhile, there’s been no dearth of memecoin launches on Arbitrum, currently the hottest Layer 2 network after its billion-dollar airdrop last month. AIDOGE ran to a market capitalization of over $50M on Apr. 19, spurring a wave of copycats.
+
+At the same time that the memecoin rally picked up, the number of NFT traders dropped off, with marketplaces like OpenSea and Blur losing over half their active users this week, according to Dune Analytics.
+Could it be that NFT holders craving for an adrenaline rush that JPEGs just aren’t delivering in this market, are turning to memecoins? Some say yes.
+
+Active NFT Traders
+
+Meanwhile, Uniswap’s daily user count is hitting levels last seen in 2021.
+
+Uniswap Daily User Count. Source: TokenTerminal
+
+As an active collector and member of various NFT discords, I’ve witnessed the shift firsthand. There’s been a lack of interest in new NFT mints, and most ‘alpha’ channels are now dedicated to scouring the mempool for the latest memecoin.
+
+“There were quite a few people in here yesterday learning how to set slippage manually on Uniswap – so definitely a lot of newcomers to memecoins,” Ramosaurus, a core team member at UDO, an invite-only Discord group, told The Defiant.
+
+“Been trading NFTs for a couple of years, got into memecoins ‘cause I’m just trying my luck and saw another member made, like, insane profits,” said Not Easy, a UDO member.
+
+The scene is similar in Admit One, a holders-only Discord run by NFT influencer Gmoney, with members asking whether anyone had alpha on “100000x shitcoins.”
+
+But while NFT traders are no strangers to volatility, memecoins are proving to be a wild ride even for seasoned JPEG traders.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/nft-traders-flip-memecoins"
+"Société Générale Launches Euro Stablecoin","Europe’s 7th-largest Bank Targets Institutional Users With EURCV","Société Générale Launches Euro Stablecoin
+
+Europe’s 7th-largest Bank Targets Institutional Users With EURCV
+
+By: Owen Fernau   April 21, 2023
+
+In one of the most significant efforts by a major financial institution to embrace blockchain technology, a subsidiary of Societe Generale, Europe’s 7th largest bank, has launched a euro-pegged digital asset.
+
+SG-Forge, the digital assets-focused subsidiary of Societe Generale, cited institutional clients as the target users of the stablecoin, EUR CoinVertible (EURCV), in a press release. The company cited increased speed and transparency of property transfers, minimized settlement, credit, and counterparty risks, and even the ability to connect with DeFi, as benefits of tokenizing assets.
+
+Cash and liquid securities will back the stablecoin, according to EURCV’s whitepaper.
+
+EURCV Overview
+
+SG-FORGE’s move to launch a stablecoin shows that despite the ongoing crypto bear market, major institutions still see value in blockchain-based assets. It also comes on a day when the European Union passed its landmark licensing regime, Markets in Crypto Assets (MiCA).
+
+The EURCV whitepaper says it took the upcoming regulations into account when designing the stablecoin. “MiCA regulation will provide legal certainty and clear regulatory framework applicable to stablecoin issuances within the European Union,” it reads.
+
+Next Step For Digital Capital Markets
+
+Further, SG-FORGE thinks that tokenization represents the continuation of a trend which began in the 1980s, when securities shifted from a paper-based format to a digital one. “SG-FORGE perceives digitization of securities and money through DLTs as the next big step towards the building of digital capital markets,” reads the whitepaper.
+
+Permissioned Access
+
+To be sure, EURCV isn’t likely to be the asset of choice for any cyberpunk looking for a decentralized stablecoin. EURCV will only be available to “any counterparty that is onboarded through Societe Generale Group’s compliance procedures,” the whitepaper says.
+
+The smart contract code for EURCV was also panned on Twitter because Societe Generale will need to issue a transaction of its own to process every transfer of the new stablecoin.
+
+Embracing Crypto
+
+While programmers may criticize the stablecoin’s implementation, Societe General has been one of the most crypto-forward banks. The firm has already chased deals with Maker, DeFi’s leading collateralized lender, launched a compliant security on the Tezos blockchain and assisted in issuing a bond on Ethereum.
+
+EURCV enters a market which has attracted little interest compared to dollar-pegged stablecoins. The combined market capitalization of euro-pegged assets is roughly $188.5M, while the largest dollar-pegged stablecoin, USDT, is over 400 times larger at $81B.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/socgen-euro-stablecoin"
+"KyberSwap Discovers Critical Bug In ‘Elastic’ AMM","TVL Drops 95% After LPs Were Asked To Withdraw Liquidity","KyberSwap Discovers Critical Bug In ‘Elastic’ AMM
+
+TVL Drops 95% After LPs Were Asked To Withdraw Liquidity
+
+By: Tarang Khaitan   April 20, 2023
+
+Kyber Network, a decentralized exchange and aggregator operating on multiple chains, instructed liquidity providers (LPs) to withdraw their liquidity from KyberSwap’s Elastic platform after discovering an undisclosed vulnerability on Apr. 17.
+
+The team said that no user funds were lost. LPs were quick to withdraw their assets, and the exchange’s TVL dropped to under $5M from $108M prior to the announcement.
+
+Terminal Chart
+Kyber TVL
+Total Value Locked
+3. Apr
+10. Apr
+17. Apr
+24. Apr
+1. May
+8. May
+0
+25M
+50M
+75M
+100M
+
+Kyber TVL, Source: The Defiant Terminal
+
+The KyberSwap Classic platform was unaffected and remains operational, while KyberSwap Elastic will be redeployed with an upgraded smart contract. Yield farming rewards have been paused as of Apr. 18.
+
+Kyber Network’s KNC governance token fell 8% on the news.
+
+Terminal Chart
+KNC Price
+Volume
+20. Apr
+22. Apr
+24. Apr
+26. Apr
+28. Apr
+30. Apr
+2. May
+4. May
+6. May
+8. May
+-30%
+-25%
+-20%
+-15%
+-10%
+-5%
+0%
+
+KNC Price, Source: The Defiant Terminal
+
+LPs that do not remove liquidity will have their assets returned to their wallets but will lose any unclaimed rewards.
+
+KyberSwap Elastic was launched in July 2022, featuring improved capital efficiency to compete with Uniswap V3.
+
+Previous Exploit
+
+In September 2022, Kyber Network suffered a front-end attack which saw $265,000 of users’ funds being lost. The team said that they would compensate affected users.
+
+Subscribe to the
+Best DeFi
+Newsletter
+Join 80k+ crypto innovators","https://thedefiant.io/kyberswap-elastic-bug"
